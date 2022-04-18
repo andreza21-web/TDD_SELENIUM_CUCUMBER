@@ -1,0 +1,10 @@
+#language: pt
+
+  Funcionalidade: TesteBuscaBlog de Palavra
+
+    Cenario: TesteBuscaBlog
+
+      Dado o acesso guiado para a pesquisa
+      Quando submeto uma pesquisa com uma palavra
+      Entao deve ser redirecionado para a tela com os dados de busca
+
